@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Duke Dangerfield declaring how he represented the D. of Mon--- in the country with his miraculous gift of touching, making knights, and other pranks in Staffordshire : how he was brought to town, examin'd before the King and counsell, and committed to Newgate.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36814</idno>
+            <idno type="STC">Wing D2506</idno>
+            <idno type="STC">ESTC R41937</idno>
+            <idno type="EEBO-CITATION">19728984</idno>
+            <idno type="OCLC">ocm 19728984</idno>
+            <idno type="VID">109372</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36814)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109372)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1698:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Duke Dangerfield declaring how he represented the D. of Mon--- in the country with his miraculous gift of touching, making knights, and other pranks in Staffordshire : how he was brought to town, examin'd before the King and counsell, and committed to Newgate.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dangerfield, Thomas, 1650?-1685.</term>
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:109372:1" rendition="simple:additions"/>
+            <head>Duke Dangerfield DECLARING How he Repreſented The D. of MON—In the COUNTRY;</head>
+            <head type="sub">With his Miraculous gift of <hi>Touching,</hi> making <hi>Knights,</hi> and other Pranks in <hi>Staffordſhire.</hi> How he was brought to Town, Examin'd before the King and Counſell, and Com<g ref="char:EOLhyphen"/>mitted to <hi>Newgate.</hi>
+            </head>
+            <p>
+               <hi>DAnger field,</hi> having brought himſelf to the laſt ſhift, and that ſo damnable black, that it was ready to drop off his back for want of Change, began thus to argue with himſelf.</p>
+            <p>Am I he that laid ſo many profound Plots? that famous <hi>Danger field</hi> that writ the Legend, the Inconvincible Narrative! that laid the Foundation of a deep Plot in the bottom of a Meal-Tub? He that offer'd to kill his King for 20 <hi>l.</hi> and ſhall I now be afraid to take upon me the perſon of a Duke? The D. of M—A Duke out of Faſhion, and out at heels, no place nor being in the Earth, and but a Vagabond, no more then my ſelf?</p>
+            <p>This is no Age for Whoreing, Swearing nor Lying, I'le try what fooling will do. I will be a Duke, and the Duke of <hi>Mon</hi>—I, and a King for the time, and why ſhou'd I not? I am an <hi>Engliſh</hi> Man as well as he, I am as good a Subject as he, and for ought I know, have as good a Title to the Crown.</p>
+            <p>With that having furniſhed himſelf with a Star and a Purple Livery Coat purchas'd in <hi>Long-lane,</hi> down he went into <hi>Staf<g ref="char:EOLhyphen"/>fordſhire,</hi> keeping the Star cloſe cover'd under a Campain Coat.</p>
+            <p>The Baniſhment of the D. of <hi>M</hi>—out of <hi>Bruſſells,</hi> made lucke<g ref="char:EOLhyphen"/>lv for his purpoſe, for being turn'd out of <hi>Flanders</hi> beyond the Seas, the <hi>Straffordians</hi> thought he had no other Refuge but into <hi>England,</hi> He did not fail to confirm them in this opi<g ref="char:EOLhyphen"/>nion, ever and anon talking of <hi>Flanders, Bruſſels,</hi> and the unkindneſs of the <hi>M. de Grana</hi> in baniſhing him his Territories; which with the Star and blew Garter (which now and then he took occaſion to ſhew) made the People believe he was not only the D—of <hi>M.</hi> but ador'd him as a King.</p>
+            <pb facs="tcp:109372:2"/>
+            <p>And now to convince them, that he was of Royal Extraction, he begins with his firſt Miracle of Touching (as a gift pecu<g ref="char:EOLhyphen"/>liar to himſelf) for he generally Touched all Night, beſides once or twice a day as the patient preſented. As a Badge of his Royalty, he tyed about their Necks Counterfeit half Gea<g ref="char:EOLhyphen"/>nies which he Coyned himſelf for that purpoſe, faſtned in half<g ref="char:EOLhyphen"/>peny Tape, for every of which he had two real Gennies which put him in ſtock.</p>
+            <p>The next, his Counterfeit Grace (to give further tokens of his Soveraignty) falls a Knighting all the Scum of the Country, by which means in a ſhort time he brought 400 <hi>l.</hi> Fees into the Treaſury, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>Sir <hi>Jer. Joil.</hi> Dogboy,</item>
+               <item>Sir <hi>Simon Smut,</hi> Blakſmith,</item>
+               <item>Sir <hi>Barnaby Button,</hi> Weaver,</item>
+               <item>Sir <hi>Solomon Sole,</hi> Cobler,</item>
+               <item>Sir <hi>Lio<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>el Long,</hi> Carrier,</item>
+               <item>Sir <hi>Braſon Noſe,</hi> Kettle Tinker.</item>
+            </list>
+            <p>
+               <hi>Ferguſon</hi> was principal Chaplain, <hi>Baxter</hi> Arch Biſhop of <hi>Can<g ref="char:EOLhyphen"/>rerbury,</hi> D. <hi>Bur</hi>—Dean of the Chappel, with other Changes at Court, which will be to tedious to Name.</p>
+            <p>Having got ſix blank Patents for Baronets (which he deſign'd to diſpoſe of in the Citty) away he trudges to Town. He had not got to <hi>Milſend</hi> when he was diſcover'd by an old Suffered <hi>John Sing,</hi> an honeſt Lay-man, who this D. <hi>Danger field</hi> h<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> twice put up in <hi>Newgate</hi> for a Jeſuit. He dog'd him to <hi>Whit<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chappel</hi> where he ſee him lodged, and brought the Intelligence to <hi>Madam Celier,</hi> who glad to catch the old Badger in his own Trap, went with a ſtrong Guard and ſecured his Grace in the preſence, which was the Kitching, under a Canopie in the Chi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ney Corner. The ſham Duke ſeeing himſelf thus ſurpriz'd, and by one whom he had ſo much abus'd before, cry'd out <hi>Celiere<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> The Scarlet Witch! The Eternal Sorceres.</p>
+            <p>
+               <hi>Cel. Dangerfield,</hi> the Rogue in Grain! the Everlaſting Villain!</p>
+            <p>
+               <hi>Dan.</hi> Haſt thou outliv'd my Fury? Withſtood all the Volleys of Tur<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and rotten Eggs, and lives yet to be my Tormenter?</p>
+            <p>
+               <hi>Cel.</hi> I have out liv'd the Pillory, to ſee thee recant at the Gallows.</p>
+            <p>
+               <hi>Dan.</hi> This is a plaguy turn of Fortune. What worſe can happen?</p>
+            <p>
+               <hi>Cel.</hi> Yes, When thou art turn'd off the Ladder with a mealy mouth'd con<g ref="char:EOLhyphen"/>feſſion.</p>
+            <p>
+               <hi>Dan.</hi> The Meal Tub Plot was mine I muſt confeſs, though you ſuffer'd <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>Cel.</hi> Do you begin to confeſs? You know what follows.</p>
+            <p>
+               <hi>Dan.</hi> If I had been hang'd when I was <hi>Dangerfield,</hi> and a poor Devil, no had pitty'd me, But now I have liv'd to be a Duke, I dye with Honour, a Fig for the World.</p>
+            <p>
+               <hi>Cel.</hi> Thou waſt ever an Impudent fellow, but this was boldneſs indeed, take his Name upon thee, when no Man wou'd be in his Coat. Now you <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> anſwer for't and all your Villany.</p>
+            <p>With that they catry'd him in a Coach with a ſtrong Guard, and a <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Retinue of his old Friends the Rabble, to <hi>White-hall,</hi> where being Examine by the King and Councell (having nothing to ſay but that he knew the w<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>on't) he was carried to <hi>Newgate</hi> in the ſame ſplendor where any Woman <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be Touched, or Man dub'd Knight of the Order for 13-Pence-half-penny.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>J. Smith.</hi> 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
